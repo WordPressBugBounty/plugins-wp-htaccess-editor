@@ -6,7 +6,7 @@
   Version: 1.73
   Requires at least: 4.0
   Requires PHP: 5.2
-  Tested up to: 6.8
+  Tested up to: 6.9
   Author: WebFactory Ltd
   Author URI: https://www.webfactoryltd.com/
   Text Domain: wp-htaccess-editor

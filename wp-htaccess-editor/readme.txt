@@ -3,7 +3,7 @@ Tags: htaccess, htaccess editor, htaccess file, htaccess file editor, file edito
 Contributors: WebFactory
 Requires at least: 4.0
 Requires PHP: 5.2
-Tested up to: 6.8
+Tested up to: 6.9
 Stable tag: 1.73
 Playground: true
 License: GPLv2 or later
